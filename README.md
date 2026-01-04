@@ -29,8 +29,7 @@ The user inputs various health details to predict the risk of heart disease & Di
 ├── Heart_Disease_Predictor.ipynb → Jupyter notebook for model building and evaluation
 ├── heart_disease_model.pkl     → Trained Logistic Regression model
 │
-├── heart_disease_input.png
-│── heart_disease_result.png
+├── heart_disease_img.png
 │
 ├── heart.csv               → Dataset containing patient health details
 └── README.md                   → Project documentation
