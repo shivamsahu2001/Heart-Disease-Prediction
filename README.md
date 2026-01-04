@@ -1,6 +1,8 @@
 
 # Heart Disease Prediction
 
+Data Set Link : [Click Here to get Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+
 A **Machine Learning** application for predicting the likelihood of heart disease based on patient details, using **Logistic Regression**. This project uses the **Heart Disease Dataset** and is built with **Python** and **Streamlit** for an interactive frontend.
 
 ---
@@ -16,7 +18,7 @@ This project predicts the presence of heart disease in a patient based on variou
 ### 📌 User Input Form & Prediction Outcome
 The user inputs various health details to predict the risk of heart disease & Displays the prediction based on the entered details.
 
-![Heart Disease Input Form](./screenshots/heart_disease_img.png)
+![Heart Disease Input Form](./heart_disease_img.png)
 
 ---
 
