@@ -13,15 +13,10 @@ This project predicts the presence of heart disease in a patient based on variou
 
 ## 🖼️ Screenshots
 
-### 📌 User Input Form  
-The user inputs various health details to predict the risk of heart disease.
+### 📌 User Input Form & Prediction Outcome
+The user inputs various health details to predict the risk of heart disease & Displays the prediction based on the entered details.
 
-![Heart Disease Input Form](./screenshots/heart_disease_input.png)
-
-### 📌 Prediction Outcome  
-Displays the prediction based on the entered details.
-
-![Prediction Result](./screenshots/heart_disease_result.png)
+![Heart Disease Input Form](./screenshots/heart_disease_img.png)
 
 ---
 
@@ -34,12 +29,10 @@ Displays the prediction based on the entered details.
 ├── Heart_Disease_Predictor.ipynb → Jupyter notebook for model building and evaluation
 ├── heart_disease_model.pkl     → Trained Logistic Regression model
 │
-├── screenshots/
-│   ├── heart_disease_input.png
-│   └── heart_disease_result.png
+├── heart_disease_input.png
+│── heart_disease_result.png
 │
-├── Data/
-│   └── heart.csv               → Dataset containing patient health details
+├── heart.csv               → Dataset containing patient health details
 └── README.md                   → Project documentation
 ```
 
